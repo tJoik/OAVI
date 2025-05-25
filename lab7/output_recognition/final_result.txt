@@ -1,0 +1,8 @@
+Распознанная строка:
+LOREMIPSUMDOLORSIAAMEFMONSECTETURADIPISICINGELIT
+
+Ожидаемая строка:
+LOREMIPSUMDOLORSITAMETCONSECTETURADIPISICINGELIT
+
+Количество ошибок: 3
+Доля верно распознанных символов: 93.75%
